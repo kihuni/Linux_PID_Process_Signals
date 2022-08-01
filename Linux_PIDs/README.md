@@ -11,6 +11,8 @@
 
 - Information on current process is stored in `/proc` file system
 
-# How to list contents of `/proc` 
+# listing contents of `/proc` using ls 
 
-- You can use ls then pipe in the output to less
+- You can use `ls`to list the contents of `/proc` > and instead pipe  the output to less command to enable to be read one screenfull at a time.
+
+
