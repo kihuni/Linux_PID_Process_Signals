@@ -7,4 +7,10 @@
 
 - PIDs has a default maximum value of 32,767, which essentially define the maximum number of processes that can exist simultaneously on a system
 
-- There is a file called pid_max
+# The /proc
+
+- Information on current process is stored in `/proc` file system
+
+# How to list contents of `/proc` 
+
+- You can use ls then pipe in the output to less
