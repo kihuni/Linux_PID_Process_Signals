@@ -13,6 +13,6 @@
 
 # listing contents of `/proc` using ls 
 
-- You can use `ls`to list the contents of `/proc` > `ls /proc`, and instead pipe  the output to less command to enable to be read one screenfull at a time.
+- You can use `ls`to list the contents of `/proc` > `ls /proc`, and instead pipe the output to less `ls /proc | less` command to enable to be read one screenfull at a time.
 
 
