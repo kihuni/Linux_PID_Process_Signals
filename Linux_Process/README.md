@@ -6,4 +6,4 @@
  
  - These process are usually controlled by a kernel; The kernel is usually the core interface between a computer hardware and its processes(system call interface)
 
- - When a process is created, its automatically assigned [a PID]()
+ - When a process is created, its automatically assigned [a PID](https://github.com/kihuni/Linux_PID_Process_Signals/tree/main/Linux_PIDs)
